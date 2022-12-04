@@ -7,6 +7,10 @@ import java.util.Iterator;
 /**
  * @author 이승환
  * @since 2020-11-17
+ *
+ * List 인터페이스를 구현한 모든 List 컬렉션 클래스는
+ * - 요소의 저장순서가 유지되고
+ * - 같은 요소의 중복저장을 허용한다.
  */
 public class ArrayListEx {
     public static void main(String[] args) {
