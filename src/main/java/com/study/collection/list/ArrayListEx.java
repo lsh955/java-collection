@@ -62,6 +62,7 @@ public class ArrayListEx {
         // set() 메소드를 이용한 요소의 변경
         arrayList2.set(0, 20); // 0번에 해당하는 인덱스를 20으로 변경
 
+        // Enhanced for 문과 get() 메소드를 이용한 요소의 출력
         for (int value : arrayList2) {
             System.out.println(value + " ");
         }
