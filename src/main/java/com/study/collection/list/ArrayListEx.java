@@ -8,7 +8,7 @@ import java.util.Iterator;
  * @author 이승환
  * @since 2020-11-17
  */
-public class ArrayList01 {
+public class ArrayListEx {
     public static void main(String[] args) {
         // 리스트 생성
         ArrayList<String> arrayList1 = new ArrayList<String>();
