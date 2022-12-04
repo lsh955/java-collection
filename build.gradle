@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group = 'com.study'
+group = 'com.study.java.collection'
 version = '0.0.1-SNAPSHOT'
 sourceCompatibility = '1.8'
 
