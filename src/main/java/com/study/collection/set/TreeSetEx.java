@@ -6,6 +6,10 @@ import java.util.TreeSet;
 /**
  * @author 이승환
  * @since 2020-11-17
+ *
+ * 요소의 저장 순서를 유지하지 않고,
+ * 같은 요소의 중복 저장을 허용하지 않는다. 이는,
+ * Set 컬랙션 클래스에 속하는 클래스에 속한다.
  */
 public class TreeSetEx {
     public static void main(String[] args) {
