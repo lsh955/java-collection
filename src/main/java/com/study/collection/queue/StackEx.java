@@ -5,6 +5,9 @@ import java.util.Stack;
 /**
  * @author 이승환
  * @since 2020-11-17
+ *
+ * 후입선출의 시멘틱을 따르는 자료구조,
+ * 가장 나중에 저장된(push) 데이터가 가장 먼저 인출(pop) 되는 구조.
  */
 public class StackEx {
     public static void main(String[] args) {
