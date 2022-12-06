@@ -10,6 +10,8 @@ import java.util.Iterator;
  * Map 인터페이스를 구현한 모든 Map 컬랙션 클래스는
  * 요소의 저장 순서를 유지하지 않고,
  * 키는 중복을 허용하지만 값은 중복을 허용한다.
+ *
+ * HasMap 클래스는 해시 알고리즘을 사용하여 검색속도가 빠르다.
  */
 public class HashMapEx {
     public static void main(String[] args) {

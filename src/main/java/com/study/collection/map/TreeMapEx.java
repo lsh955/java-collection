@@ -6,6 +6,12 @@ import java.util.TreeMap;
 /**
  * @author 이승환
  * @since 2020-11-17
+ *
+ * Map 인터페이스를 구현한 모든 Map 컬랙션 클래스는
+ * 요소의 저장 순서를 유지하지 않고,
+ * 키는 중복을 허용하지만 값은 중복을 허용한다.
+ *
+ * TreeMap 클래스는 키와 값을 한 쌍으로 하는 데이터를 이진검색트리의 형태로 저장
  */
 public class TreeMapEx {
     public static void main(String[] args) {
