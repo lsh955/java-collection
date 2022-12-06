@@ -6,6 +6,10 @@ import java.util.Iterator;
 /**
  * @author 이승환
  * @since 2020-11-17
+ *
+ * Map 인터페이스를 구현한 모든 Map 컬랙션 클래스는
+ * 요소의 저장 순서를 유지하지 않고,
+ * 키는 중복을 허용하지만 값은 중복을 허용한다.
  */
 public class HashMapEx {
     public static void main(String[] args) {
